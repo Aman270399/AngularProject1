@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "firstName": "rashmi",
+      "lastName": "Singh",
+      "email": "ras@gmail.com"
+    },
+    {
+      "id": 2,
+      "firstName": "Aman",
+      "lastName": "Singh",
+      "email": "aman@gmail.com"
+    },
+    {
+      "id": 3,
+      "firstName": "Anjali",
+      "lastName": "Chorei",
+      "email": "anj@gmail.com"
+    },
+    {
+      "id": 4,
+      "firstName": "a87",
+      "lastName": "55",
+      "email": ""
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
